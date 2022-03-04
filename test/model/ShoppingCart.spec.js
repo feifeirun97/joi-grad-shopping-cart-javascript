@@ -2,6 +2,7 @@ import Customer from "../../src/model/Customer.js";
 import Product from "../../src/model/Product.js";
 import ShoppingCart from "../../src/model/ShoppingCart.js";
 
+//fei
 describe("Shopping cart should checkout", () => {
 
     it("Should calculate correct total and loyalty points for 10% discounted products", () => {
