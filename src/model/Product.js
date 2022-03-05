@@ -3,5 +3,6 @@ export default class Product {
         this.price = price;
         this.code = code;
         this.name = name;
+        
     }
 };
